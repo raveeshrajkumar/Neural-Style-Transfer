@@ -16,8 +16,8 @@ pip install tensorflow matplotlib numpy pillow
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/neural-style-transfer.git
-cd neural-style-transfer
+git clone https://github.com/raveeshrajkumar/Neural-Style-Transfer.git
+cd Neural-Style-Transfer
 ```
 2. Open the Jupyter notebook:
 ```bash
